@@ -11,6 +11,11 @@ a Streamlit inference demo.
 - `models/` - selected trained checkpoints and evaluation arrays
 - `reports/Teeth_Classification_Report.pdf` - saved evaluation report
 
+## Demonstration
+
+The evaluation report contains representative test results and visualizations.
+Raw teeth images are not republished from the training dataset.
+
 ## Dataset
 
 The original `Teeth_Dataset` is intentionally not included. It is a large
