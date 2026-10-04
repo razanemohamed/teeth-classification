@@ -86,10 +86,3 @@ streamlit run notebooks/streamlit_app.py
 ```
 
 The demo loads the trained `models/efficientnet_b0_best.pth` checkpoint.
-
-## Notes
-
-This repository is a cleaned standalone snapshot of the internship project.
-The original combined repository remains the source of historical context.
-Predictions are for research and demonstration purposes only and must not be
-used as a substitute for professional dental diagnosis.
